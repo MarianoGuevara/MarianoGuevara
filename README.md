@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center"><a href="https://MarianoGuevara.github.io"><img width="80%" alt="Hello, I'm Mariano Guevara!" src="./assets/gh-readme-header.png" /></a></h1>
 
-<!--
-**MarianoGuevara/MarianoGuevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+I'm currently studying and helping with classes at UTN (Technological National University)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ------------- | ------------- |
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarianoGuevara&theme=dark)](https://git.io/streak-stats)
+
+| ------------- | ------------- |
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
