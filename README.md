@@ -9,11 +9,11 @@
 
 ---
 
-<div id="herramientas" align="left">
+<div id="herramientas" align="center">
     <h3>
         Lenguajes y herramientas:
     </h3>
-    <div align="left"> 
+    <div align="center"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSHARP" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
@@ -24,11 +24,11 @@
 
 ---
 
-<div id="entornos de desarrollo" align="left">
+<div id="entornos de desarrollo" align="center">
     <h3>
         Entornos de desarrollo usados:
     </h3>
-    <div align="left"> 
+    <div align="center"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" width="40" height="40"/>
     </div>
