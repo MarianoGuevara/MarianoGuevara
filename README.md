@@ -35,8 +35,7 @@
 </div>
 
 ---
-
-![Mariano Guevara´s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianoGuevara&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoGuevara&theme=tokyonight&hide_progress=true)
-
+<div id="datos" align="center">
+    ![Mariano Guevara´s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianoGuevara&show_icons=true&theme=tokyonight)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoGuevara&theme=tokyonight&hide_progress=true)
+</div>
