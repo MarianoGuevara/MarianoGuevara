@@ -39,13 +39,3 @@
     <img src="https://img.icons8.com/color/50/000000/linkedin.png"  alt="LinkedIn marianoGuevara" width="40" height="40">
   </a>
 </div>
-
----
-
-<br/>
-<div id="datos" align="center">
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoGuevara&layout=compact&hide=css&theme=tokyonight">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoGuevara&theme=tokyonight&hide_progress=true">
-    </p>
-</div>
