@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="200" />
     <h1>Mariano Guevara</h1>
-    <h3>Currently studying at UTN (Universidad tecnológica nacional)</h3>
+    <h3>Currently teaching at UTN (Universidad tecnológica nacional)</h3>
 </div>
 
 <hr/>
