@@ -7,13 +7,15 @@
 <hr/>
 
 <div>
-	<p><strong>Programming Languages:</strong></p>
+	<p><strong>Programming Languages & web:</strong></p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
+ 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
 </div>
 
 <hr/>
@@ -25,20 +27,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" width="40" height="40"/>
-</div>
-
-<hr/>
-
-<p><strong>Web Technologies:</strong></p>
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" width="40" height="40"/>
 </div>
 
 <hr/>
 
 <p><strong>Tools & Platforms:</strong></p>
 <div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="mongooseODM" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
